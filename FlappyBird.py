@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config(page_title="Rolling Bird", page_icon="🎮", layout="centered")
-st.title("🎮 Rolling Bird Game")
+st.title("🎮 Rolling Bird Game by Leonardo")
 
 flappy_html = """
 <!DOCTYPE html>
